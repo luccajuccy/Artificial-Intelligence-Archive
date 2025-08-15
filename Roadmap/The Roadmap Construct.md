@@ -1,12 +1,21 @@
-# Hello!
+# Welcome!
 
-# About ...
+# This is my 'roadmap' for studies about Artificial Intelligence
+
+### Portuguese Version: 
+
+> "Se eu tivesse 8 horas para cortar uma árvore, eu passaria 6 horas afiando o meu machado."
+> ~ Abrahan Lincon.
+
+A frase acima é uma das perspectivas adotadas para o desenvolvimento completo, bem estruturado e relativamente complexo do meu roadmap de estudos sobre Inteligência Artificial. 
+
+---
 
 
-# Diagramas de Aprendizagem
+
+# Diagramas de Aprendizagem 
 
 ### Visualização Geral Resumo:
-
 
 ```mermaid
 graph TD
@@ -69,8 +78,7 @@ graph TD
 
 ### "PHΔSΞ ZΞRO" Diagram: 
 
-```markdown
-# INSERIR Diagrama Mermaid
+```mermaid
 
 ```
 
